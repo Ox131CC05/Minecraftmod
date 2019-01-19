@@ -1,0 +1,6 @@
+item.zjkSword.name=ZJK之剑
+item.zjkIngot.name=ZJK锭
+item.zjkWand.name=ZJK权杖
+tile.chromite.name=ZJK矿
+itemGroup.ZJK=ZJK mod
+entity.zjk_ball.name=ZJK烈焰球

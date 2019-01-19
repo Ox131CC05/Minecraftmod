@@ -1,0 +1,6 @@
+{
+    "parent" : "item/handheld",
+    "textures" : {
+        "layer0" : "zjk:items/zjk_sword_broken"
+    }
+}

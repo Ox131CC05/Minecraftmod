@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "zjk",
+        "name": "ZJK",
+        "description": "A Minecraft 1.12.2 Mod to show how strong ZJK is.",
+        "version": "1.0",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["An_Account"],
+        "credits": "ZJK is too strong.",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]

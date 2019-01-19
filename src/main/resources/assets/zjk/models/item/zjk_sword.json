@@ -1,0 +1,10 @@
+{
+    "parent" : "item/handheld", 
+    "textures" : {
+        "layer0": "zjk:items/zjk_sword"
+    },
+    "overrides" : [
+        { "predicate" : { "isZJK" : 0.0 }, "model" : "zjk:item/zjk_sword" },
+        { "predicate" : { "isZJK" : 1.0 }, "model" : "zjk:item/zjk_sword_broken" }
+    ]
+}
