@@ -2,4 +2,4 @@
 
 author : An_Account
 
-功能待添加中
+Functions are now being added in.Please wait for a while.
